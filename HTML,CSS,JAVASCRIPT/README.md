@@ -1,0 +1,1 @@
+The Day 4-5 induction activity focused on HTML, CSS, and JavaScript. The basics of structuring web pages, styling them, and adding interactivity using JavaScript were covered and completed successfully
