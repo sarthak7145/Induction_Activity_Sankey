@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+button{
+    margin: 20px;
+    padding: 15px;
+    color: white;
+    background-color: rgb(95, 0, 0);
+    border: 2px solid grey;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: flex;
+    font-family :Georgia, 'Times New Roman', Times, serif;
+    
+}

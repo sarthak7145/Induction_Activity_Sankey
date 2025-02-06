@@ -1,0 +1,17 @@
+.input-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+    flex-wrap: wrap;    
+}
+
+#comp-name{
+    margin:20px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    height: 15px;
+    padding: 20px;
+    background-color: rgb(223, 236, 236);
+    
+}
